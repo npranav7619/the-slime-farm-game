@@ -15,7 +15,7 @@ Use your time by grinding for some movement speed and then face a lot of purple 
 
 or 
 
-Directly attack the purple slimes 
+Directly attack the purple slimes and get your best score !
 
 ### How to Play
 

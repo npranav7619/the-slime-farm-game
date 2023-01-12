@@ -29,6 +29,11 @@ Gamepad also works*
 
 *Tested with Xbox 360 controller
 
+### Download 
+Download  the Final.7z
+Extract and Play 
+
+
 The Sprites used in the game were downloded from
 
 https://opengameart.org/

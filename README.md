@@ -1,6 +1,6 @@
 # the-slime-farm-game
 
-## A Game made using Unity Game Engine 
+## A Simple Game made using Unity Game Engine 
 
 ### About the Game
 Help Gary defend the village by killing as many purple slimes as you can
